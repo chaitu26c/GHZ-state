@@ -6,6 +6,8 @@ GHZ State | Quantum Computing
 The Greenberger-Horne-Zeilinger (GHZ) state is an important entangled quantum state that involves multiple qubits. It represents a maximally entangled state of three or more qubits and is widely used in quantum information theory, quantum cryptography, and quantum computing experiments.
 
 Properties
+
+
 Maximal Entanglement: All qubits are strongly correlated, meaning that measuring one qubit determines the state of all others.
 Nonlocality: The GHZ state exhibits strong nonlocal correlations that defy classical explanations.
 Quantum Superposition: The system exists in a coherent superposition of all qubits being in state |0⟩ and all qubits being in state |1⟩.
